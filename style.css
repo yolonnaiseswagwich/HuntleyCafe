@@ -92,7 +92,7 @@ h2 a {
 ul.topmenu, ul.topmenu ul { 
 	position: absolute;
 	right: 0;
-	top: 95px;
+	top: 0px;//95
 	left: 0;
 	display: block;    	
 	text-align: center; 
@@ -113,7 +113,7 @@ ul.topmenu li {
 	padding : 0px 15px 0px 0px; }
 ul.topmenu li ul { 
 	display: block; 
-	padding: 0.0em;//0.4
+	padding: 0.4em;
 	position: absolute; 
 	font-size:0.5em;
 	visibility: hidden; 
